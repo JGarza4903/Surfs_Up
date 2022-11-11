@@ -10,4 +10,4 @@ Viewing the month of June over the span of the last few years, we can determine 
 
 * Average temperature - 74.9 degrees
 * [June Temps](https://github.com/JGarza4903/Surfs_Up/blob/main/resources/june_temps.png)
-    * To view the query that produced this data, click [here](
+    * To view the query that produced this data, click [here](https://github.com/JGarza4903/Surfs_Up/blob/main/resources/query1.png)
